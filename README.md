@@ -1,7 +1,7 @@
 # Hello! My name is Nate, thanks for checking out my GitHub! 👋
 ## A former award winning teacher turned software developer
 ### 🧬 About Me 
-💡 Learning new things and tackling challenges co-operatively are what I strive to find in a job. <br/>
+💡 Learning new things and tackling challenges co-operatively are what I love to do! <br/>
 
 📒 I'm studying at <a href="https://www.epicodus.com/" target="_blank">Epicodus</a> - building a strong foundation as a full-stack developer. <br />
 
