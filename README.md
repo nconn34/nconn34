@@ -23,10 +23,10 @@
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
 ### ♾️ Connect
-<a href="https://www.linkedin.com/in/nicholassull/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:nicholassull@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/nathanconnseattle/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:nconn34@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 ### 📈 Stats
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=nicholassull&show_icons=true&theme=dark" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=nconn34&show_icons=true&theme=dark" />
 
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicholassull&layout=compact&theme=dark" />
+<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nconn34&layout=compact&theme=dark" />
