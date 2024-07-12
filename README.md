@@ -3,7 +3,7 @@
 ### 🧬 About Me 
 💡 Learning new things and tackling challenges co-operatively are what I love to do! <br/>
 
-📒 I'm working at <a href="[https://www.epicodus.com/](https://www.esri.com/en-us/home)" target="_blank">Esri</a> - as a Product Engineer II. <br />
+📒 I'm working at <a href="https://www.esri.com/en-us/home" target="_blank">Esri</a> - as a Product Engineer II. <br />
 
 🌱 I'm currently learning React and brushing up on C#. <br />
 
