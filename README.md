@@ -1,4 +1,4 @@
-# Hello! My name is Nate, thanks for checking out my GitHub! 👋
+# Hello! My name is Nathan, thanks for checking out my GitHub! 👋
 ## A former award winning teacher turned software developer
 ### 🧬 About Me 
 💡 Learning new things and tackling challenges co-operatively are what I love to do! <br/>
